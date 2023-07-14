@@ -37,23 +37,23 @@
     "li": "^1.3.0",
     "microformat-node": "^2.0.1",
     "ms": "^2.1.2",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.1",
     "optimist": "^0.6.1",
     "rss-parser": "^3.7.0",
-    "uuid": "^3.3.2"
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
-    "@nuxtjs/markdownit": "^1.2.4",
+    "@nuxtjs/markdownit": "^2.0.0",
     "@remy/envy": "^4.0.2",
     "aws-sdk": "^2.466.0",
     "cookie-universal-nuxt": "^2.0.14",
     "markdown-it-named-headings": "^1.1.0",
     "markdown-it-task-lists": "^2.1.1",
-    "micro": "^9.3.4",
+    "micro": "^10.0.1",
     "micro-dev": "^3.0.0",
-    "nuxt": "^2.14.7",
-    "passport": "^0.4.0",
+    "nuxt": "^3.6.2",
+    "passport": "^0.6.0",
     "passport-github2": "^0.1.11",
-    "tap": "^14.2.0"
+    "tap": "^16.3.7"
   }
 }
